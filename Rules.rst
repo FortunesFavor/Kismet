@@ -1,4 +1,4 @@
-Kismet Rules
+Simple Rules
 ------------
 
 Health
@@ -17,6 +17,7 @@ Stamina
  - Stamina is equal to 20*Level 
  - Stamina recovery rate is based on level
  - Stamina is spent to raise the success threshold of an Ability 
+ - Stamin is also spent to pay for a dodge chance. If a successful strike is made against you, you may contribute an amount of Stamina to bring the total roll into failure range, then roll Dodge for a chance to mitigate damage
 	
 Edge
 ====
