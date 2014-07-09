@@ -1,4 +1,4 @@
-Simple Rules
+Kismet Rules
 ------------
 
 Health
