@@ -6,10 +6,10 @@ Health
 
 Divided into four categories
 
- - Healthy - You have no wounds
- - Injured - You have sustained an injury and will not recover Stamina until rested
- - Wounded - You have sustained a serious wound and will not recover until healed
- - Dead - You have lost your life and must be resurrected 
+ - Healthy    - You have no wounds
+ - Injured    - You have sustained an injury and will not recover Stamina until rested
+ - Wounded    - You have sustained a serious wound and will not recover until healed
+ - Unconcious - You have lost consciousness and will need to be dragged to safty
  
 You may also have an extra category on your health track if you have armor
  		
@@ -39,6 +39,7 @@ Stunts
 ======
 
 Stunts are special abilities which can be activated by spending Stamina. 
+You gain one stunt each level, and it must be discussed with your Storyteller 
 	
 Advantage
 =========
@@ -77,15 +78,15 @@ Example Character
 ::
 
     John Doe
-    High Concept 				- Modern Day Ninja!
-	Ambition Aspect				- I shall find The Dragon Forged Blade!
-	Background Aspect			- I am John of the Red Tengu Dojo!
-	Conviction Aspect			- I am Bound by Honour!
+    High Concept 			- Modern Day Ninja!
+	Ambition Aspect			- I shall find The Dragon Forged Blade!
+	Background Aspect		- I am John of the Red Tengu Dojo!
+	Conviction Aspect		- I am Bound by Honour!
 	Disadvantage Aspect 		- I must not kill an innocent!
 	Exceptional Skill Aspect	- Parkour Hardcore!
-	Foe Aspect					- The Blue Oni Dojo are EVIL!
-	Gear Aspect					- Shadow Armour will protect me!
-	Help Aspect					- Great Sensei Hoshi has my back!
+	Foe Aspect			- The Blue Oni Dojo are EVIL!
+	Gear Aspect			- Shadow Armour will protect me!
+	Help Aspect			- Great Sensei Hoshi has my back!
 	Inferior Skill Aspect		- I Dodge like a snail!
 	
 	
@@ -123,20 +124,28 @@ Gameplay Example
 
 John has been spotted by a Blue Oni Goon, and has started running. He decides to use [Parkour] to vault over a car and to put an obstacle between him and the Goon. 
 
+
 He knows his [Parkour] skill is 10, and his [Reflexes] is 5, so he has to roll under 15. Unfortunately he rolls a 16, and fails. He is now pressed between a car and the Goon, and his turn has ended.
 	
+
 The goon throws a shurikun at John. The Goon adds his [Throw] to his [Reflexes] and gets 10, rolling against 10 he receives a 9, succeeding. John pays 1 stamina to bring the roll to a 10, putting it in failure range, and rolls his [Dodge] + [Reflexes], receiving a 10, rolling against this he gets a 9, Succeeding.
+
 
 BUT WAIT. The Blue Oni knows John [Dodges like a snail!] and taps the aspect for +2, to increase the roll to 11, making it fail. The shurikun buries deep into Johns leg, he is now [Injured] and his Stamina will not recover until he has rested.
 	
+
 On Johns following turn he pulls out his gun and fires a shot off at the Goon, rolling against his [Firearms] [10] and [Reflexes] [5], but decides to spend 5 Stamina to really make sure it hits, bringing the total threshold up to 20, an automatic hit! The goon is unable to dodge such a deft shot!
 	
+
 The goon sustains an [Injured] state as the shot buries itself in his flesh, and now his own stamina will not regenerate until he rests. The goon decides to spend his Edge point, and automatically succeeds on a [Swordplay] roll with his Katana, burying the blade deep in Johns shoulder, bringing his health down to [Wounded], Johns health will not recover until he seeks medical attention. 
 	
+
 John pulls the shurikun from his leg and decides to vault over the car again, spending 5 stamina to buy a success this time, putting a car between him and the Goon.
 	
+
 The Goon again tries to fire off a shurikun, but this time he is unable to use [Dodge like a snail], as John counters this with a +2 bonus from the Advantage of hiding behind a car. He rolls his [Throw] + [Reflexes] to roll versus 10, and gets 15, his throw misses anyway.
 	
+
 John decides he's had enough and uses [Parkour] to run up the side of a building and out of sight, he rolls versus his [Parkour] and [Reflexes], and gets a 7, succeeding.
 	
 The Goon would need to follow him up to the new zone to continue combat, but lacks the [Parkour] ability. The goon tries to roll his [Reflexes] to vault over the car, but rolls a pitiful 19, flopping over the hood lazily.
