@@ -1,51 +1,78 @@
-Health - 
-	Divided into four categories
-		Healthy - You have no wounds
-		Injured - You have sustained an injury and will not recover Stamina until rested
-		Wounded - You have sustained a serious wound and will not recover until healed
-		Dead - You have lost your life and must be resurrected 
-		
-Stamina - 
-	Stamina is equal to 20*Level 
-	Stamina recovery rate is based on level
-	Stamina is spent to raise the success threshold of an Ability 
-	
-Edge - 
-	Edge points are based on level 
-	Edge is spent to automatically succeed at an Ability check
-	Edge is recovered at a rate of one per day 
-	
-Aspects - 
-	Aspects are defining characteristics of a character that can be tapped or invoked to gain a bonus or a negative to an ability check
-	
-Powers -
-	TBD
-	
-Advantage - 
-	Advantages are traits assigned to scenes that can be tapped for a bonus to Success Threshold 
-	The bonus awarded by Advantages is up to the Storyteller
-	
-Abilities - 
-	Abilities are divided into the following categories:
-		Body
-		Reflexes
-		Wits
-		Persona 
+Simple Rules
+------------
 
-Skills - 
-	Skills are talents that draw upon your Abilities, for example Firearms would require Reflexes, while Brawling would require Body
-	Skills are defined by the player at Character Creation or when Leveling Up
+Health
+=======
+
+Divided into four categories
+
+ - Healthy - You have no wounds
+ - Injured - You have sustained an injury and will not recover Stamina until rested
+ - Wounded - You have sustained a serious wound and will not recover until healed
+ - Dead - You have lost your life and must be resurrected 
+		
+Stamina
+=======
+
+ - Stamina is equal to 20*Level 
+ - Stamina recovery rate is based on level
+ - Stamina is spent to raise the success threshold of an Ability 
 	
-Character Creation - 
-	Players are given 100 pips to assign to Abilities and Skills
-	Abilities are capped at 10
-	Skills are capped at 5
-	Skills are added to Ability scores when rolling
+Edge
+====
+
+ - Edge points are based on level 
+ - Edge is spent to automatically succeed at an Ability check
+ - Edge is recovered at a rate of one per day 
+	
+Aspects
+=======
+
+Aspects are defining characteristics of a character that can be tapped or invoked to gain a bonus or a negative to an ability check
+	
+Powers
+======
+
+TBD
+	
+Advantage
+=========
+
+ - Advantages are traits assigned to scenes that can be tapped for a bonus to Success Threshold 
+ - The bonus awarded by Advantages is up to the Storyteller
+	
+Abilities
+=========
+
+Abilities are divided into the following categories:
+
+ - Body
+ - Reflexes
+ - Wits
+ - Persona 
+
+Skills
+======
+
+ - Skills are talents that draw upon your Abilities, for example Firearms would require Reflexes, while Brawling would require Body
+ - Skills are defined by the player at Character Creation or when Leveling Up
+	
+Character Creation
+==================
+
+ - Players are given 100 pips to assign to Abilities and Skills
+ - Abilities are capped at 10
+ - Skills are capped at 5
+ - Skills are added to Ability scores when rolling
 	 
 	
-Example Character -
-	John Doe
-	High Concept 				- Modern Day Ninja!
+Example Character
+=================
+
+::
+
+    John Doe
+    High Concept 				- Modern Day Ninja!
 	Ambition Aspect				- I shall find The Dragon Forged Blade!
 	Background Aspect			- I am John of the Red Tengu Dojo!
 	Conviction Aspect			- I am Bound by Honour!
@@ -83,7 +110,8 @@ Example Character -
 		
 	
 
-Gameplay Example:
+Gameplay Example
+================
 
 John has been spotted by a Blue Oni Goon, and has started running. He decides to use Parkour to vault over a car and to put an obstacle between him and the Goon. He knows his Parkour skill is 5, and his Reflexes is 10, so he has to roll under 15. Unfortunately he rolls a 16, and fails. He is now pressed between a car and the Goon, and his turn has ended.
 	
