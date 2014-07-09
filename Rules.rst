@@ -10,7 +10,9 @@ Divided into four categories
  - Injured - You have sustained an injury and will not recover Stamina until rested
  - Wounded - You have sustained a serious wound and will not recover until healed
  - Dead - You have lost your life and must be resurrected 
-		
+ 
+You may also have an extra category on your health track if you have armor
+ 		
 Stamina
 =======
 
@@ -18,7 +20,8 @@ Stamina
  - Stamina recovery rate is based on level
  - Stamina is spent to raise the success threshold of an Ability 
  - Stamin is also spent to pay for a dodge chance. If a successful strike is made against you, you may contribute an amount of Stamina to bring the total roll into failure range, then roll Dodge for a chance to mitigate damage
-	
+ - Stamina is also spent to activate Stunts
+ 
 Edge
 ====
 
@@ -29,12 +32,13 @@ Edge
 Aspects
 =======
 
-Aspects are defining characteristics of a character that can be tapped or invoked to gain a bonus or a negative to an ability check
+ - Aspects are defining characteristics of a character that can be tapped or invoked to gain a bonus or a negative to an ability check
+ - Only one aspect may be tapped at a time for a +2 bonus on your roll, Aspects do not stack
 	
-Powers
+Stunts
 ======
 
-TBD
+Stunts are special abilities which can be activated by spending Stamina. 
 	
 Advantage
 =========
@@ -62,8 +66,8 @@ Character Creation
 ==================
 
  - Players are given 100 pips to assign to Abilities and Skills
- - Abilities are capped at 10
- - Skills are capped at 5
+ - Abilities are capped at 5
+ - Skills are capped at 10
  - Skills are added to Ability scores when rolling
 	 
 	
@@ -90,19 +94,22 @@ Example Character
 	Stamina  			[20]
 	Edge 				[1]
 	
-	Body				[10]
-		Martial Arts	[5]
-	Reflexes			[10]
+	Body				[5]
+	       Martial Arts      	[5]
+	
+	Reflexes			[5]
 		Dodge			[5]
-		Firearms 		[5]
+		Firearms 		[10]
 		Swordplay		[5]
 		Drive			[5]
-		Parkour			[5]
+		Parkour			[10]
+	
 	Wits				[5]
 		Hacking			[5]
 		Perception		[5]
 		Japanese		[5]
 		English			[5]
+	
 	Persona				[5]
 		Bluff			[5]
 		Feign			[5]
@@ -114,22 +121,6 @@ Example Character
 Gameplay Example
 ================
 
-John has been spotted by a Blue Oni Goon, and has started running. He decides to use Parkour to vault over a car and to put an obstacle between him and the Goon. He knows his Parkour skill is 5, and his Reflexes is 10, so he has to roll under 15. Unfortunately he rolls a 16, and fails. He is now pressed between a car and the Goon, and his turn has ended.
-	
-The goon throws a shurikun at John. Even though it is not Johns turn, he has an oppertunity to Dodge, and would normally roll his Dodge [5] + Reflexes [10], however the Storyteller has stated that this Goon knows John, and knows he [Dodges like a snail!], jinxing him by -2 on his Success Threshold. John rolls versus 13, and recieves a 20, the Shurikun burries itself in his leg. The Story Teller states that he is now Injured and his Stamina will not recover until he has rested.
-	
-On Johns following turn he pulls out his gun and fires a shot off at the Goon, rolling against his Firearms [5] and Reflexes [10], but decides to spend 5 Stamina to really make sure it hits, bringing the total threshold up to 20, an automatic hit! The goon is unable to dodge such a deft shot!
-	
-The goon sustains an Injured state as the shot burries itself in his flesh, and now his own stamina will not regenerate until he rests. The goon decides to spend his Edge point, and automatically succeeds on a Swordplay roll with his Katana, burrying the blade deep in Johns shoulder, bringing his health down to Wounded, Johns health will not recover until he seeks medical attention. 
-	
-John pulls the shurikun from his leg and decides to vault over the car again, spending 5 stamina to buy a success this time, putting a car between him and the Goon.
-	
-The Goon again tries to fire off a shurikun, but this time he is unable to use [Dodge like a snail], as John counters this with a +2 bonus from the Advantage of hiding behind a car. 
-	
-John decides he's had enough and uses Parkour to run up the side of a building and out of sight, he rolls versus his Parkour and Reflexes, and gets a 7, succeeding.
-	
-The Goon would need to follow him up to the new zone to continue combat, but lacks the Parkour ability. The goon tries to roll his Reflexes to vault over the car, but rolls a pitiful 19, flopping over the hood lazily.
-	
-John is severely wounded, and needs to get help, but at least the Blue Oni Goon won't be a problem anymore. 
+
 	
 	
