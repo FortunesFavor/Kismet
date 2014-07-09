@@ -38,8 +38,8 @@ Aspects
 Stunts
 ======
 
-Stunts are special abilities which can be activated by spending Stamina. 
-You gain one stunt each level, and it must be discussed with your Storyteller 
+ - Stunts are special abilities which can be activated by spending Stamina. 
+ - You gain one stunt each level, and it must be discussed with your Storyteller 
 	
 Advantage
 =========
