@@ -96,7 +96,7 @@ Example Character
     Edge 			[1]
     
     Body			[5]
-           Martial Arts      	[5]
+    	Martial Arts      	[5]
     
     Reflexes			[5]
     	Dodge			[5]
