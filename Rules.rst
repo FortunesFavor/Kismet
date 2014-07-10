@@ -78,46 +78,44 @@ Example Character
 ::
 
     John Doe
-    High Concept 			- Modern Day Ninja!
-	Ambition Aspect			- I shall find The Dragon Forged Blade!
-	Background Aspect		- I am John of the Red Tengu Dojo!
-	Conviction Aspect		- I am Bound by Honour!
-	Disadvantage Aspect 		- I must not kill an innocent!
-	Exceptional Skill Aspect	- Parkour Hardcore!
-	Foe Aspect			- The Blue Oni Dojo are EVIL!
-	Gear Aspect			- Shadow Armour will protect me!
-	Help Aspect			- Great Sensei Hoshi has my back!
-	Inferior Skill Aspect		- I Dodge like a snail!
-	
-	
-	Level 				[1]
-	Health 				[Healthy]
-	Stamina  			[20]
-	Edge 				[1]
-	
-	Body				[5]
-	       Martial Arts      	[5]
-	
-	Reflexes			[5]
-		Dodge			[5]
-		Firearms 		[10]
-		Swordplay		[5]
-		Drive			[5]
-		Parkour			[10]
-	
-	Wits				[5]
-		Hacking			[5]
-		Perception		[5]
-		Japanese		[5]
-		English			[5]
-	
-	Persona				[5]
-		Bluff			[5]
-		Feign			[5]
-		Disguise		[5]
-		Hiding			[5]
-		
-	
+    High Concept 		- Modern Day Ninja!
+    Ambition Aspect		- I shall find The Dragon Forged Blade!
+    Background Aspect		- I am John of the Red Tengu Dojo!
+    Conviction Aspect		- I am Bound by Honour!
+    Disadvantage Aspect 	- I must not kill an innocent!
+    Exceptional Skill Aspect	- Parkour Hardcore!
+    Foe Aspect			- The Blue Oni Dojo are EVIL!
+    Gear Aspect			- Shadow Armour will protect me!
+    Help Aspect			- Great Sensei Hoshi has my back!
+    Inferior Skill Aspect	- I Dodge like a snail!
+    
+    
+    Level 			[1]
+    Health 			[Healthy]
+    Stamina  			[20]
+    Edge 			[1]
+    
+    Body			[5]
+           Martial Arts      	[5]
+    
+    Reflexes			[5]
+    	Dodge			[5]
+    	Firearms 		[10]
+    	Swordplay		[5]
+    	Drive			[5]
+    	Parkour			[10]
+    
+    Wits			[5]
+    	Hacking			[5]
+    	Perception		[5]
+    	Japanese		[5]
+    	English			[5]
+    
+    Persona			[5]
+    	Bluff			[5]
+    	Feign			[5]
+    	Disguise		[5]
+    	Hiding			[5]
 
 Gameplay Example
 ================
