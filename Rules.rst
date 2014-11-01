@@ -131,7 +131,7 @@ This aspect is intended to be a short 2-5 word description of what someone would
 
     "Alien Mechanic"
     
-    "Corporate Private Investigator"]
+    "Corporate Private Investigator"
 
 AMBITION ASPECT
 ***************
@@ -215,51 +215,50 @@ There's things you're just not good at, and you know it. This aspect describes s
 EXAMPLE CHARACTER
 -----------------
 
-Name: Georgia 'Tin Lizzy' Preston
-Age: 27
-Description: A tall, rough looking woman carrying a nanoblade at her side and a massive gun on her hip, dressed in rags.
+    Name: Georgia 'Tin Lizzy' Preston
+    Age: 27
+    Description: A tall, rough looking woman carrying a nanoblade at her side and a massive gun on her hip, dressed in rags.
 
-Character Concept        - Space Pirate
+    Character Concept        - Space Pirate
 
-Ambition Aspect           	- Rest on my Laurels 
-Background Aspect         	- Warmaiden of the Kas Dynasty
-Conviction Aspect         	- No Mercy, but no Cruelty
-Dilemma Aspect       		- Itchy Trigger Finger
-Exceptional Skill Aspect  	- A Cut Above the Rest [Blades]
-Foe Aspect                	- Hardened Criminal
-Gear Aspect               	- Modified Dynn Taurus X11 'Judgement' revolver
-Help Aspect               	- Brannwyn Star
-Inferior Skill Aspect     	- Aint IS a word ya shithawk [Diplomacy]
+    Ambition Aspect             - Rest on my Laurels 
+    Background Aspect           - Warmaiden of the Kas Dynasty
+    Conviction Aspect           - No Mercy, but no Cruelty
+    Dilemma Aspect              - Itchy Trigger Finger
+    Exceptional Skill Aspect    - A Cut Above the Rest [Blades]
+    Foe Aspect                  - Hardened Criminal
+    Gear Aspect                 - Modified Dynn Taurus X11 'Judgement' revolver
+    Help Aspect                 - Brannwyn Star
+    Inferior Skill Aspect       - Aint IS a word ya shithawk [Diplomacy]
 
-Level     	[1]
-Health    	[Healthy] [Injured] [Wounded] [Incapacitated]
-Armor		[2]
-Stamina		[20]
-Edge      	[1]
-  
-Body		5
-  Brawl			5
-  Parkour		5
+    Level           [1]
+    Health          [Healthy] [Injured] [Wounded] [Incapacitated]
+    Armor           [2]
+    Stamina         [20]
+    Edge            [1]
+      
+    Body            5
+      Brawl         5
+      Parkour       5
 
-Reflexes	5
-  Dodge			5
-  Swordplay		10
-  Firearms		5
-  
-Wits		2
-  Perception		2
+    Reflexes        5
+      Dodge         5
+      Swordplay     10
+      Firearms      5
+      
+    Wits            2
+      Perception    2
 
-Persona		2
-  Intimidate		4
+    Persona         2
+      Intimidate    4
 
-Traits
-	Wired Reflexes - Spend 10 stamina to automatically dodge an attack made against you. [10 TP]
-	Cyber-eye - Grants Infrared Vision, and Smartlink [5 TP]
-	STUNT! Dervish - When weilding a gun in one hand and a sword in the other, spend 5 AP to attack with both in one turn - [5 TP]
-	STUNT! Shake it Off - When you have just been successfully attacked, but took no damage due to a successful Dodge or Armor check, you may spend 5 TP to make an immediate Attack of Opportunity  - [5 TP]
-	  
-	  
-Gear
-	HELIX QUESTware - Light Armor 2 AR [10GP] 
-	Modified Dynn Taurus X11 'Judgement' revolver - Heavy Pistol 10DMG [10GP]
-	Nanosaber - monofilament blade 5DMG [5GP]
+    Traits
+        Wired Reflexes - Spend 10 stamina to automatically dodge an attack made against you. [10 TP]
+        Cyber-eye - Grants Infrared Vision, and Smartlink [5 TP]
+        STUNT! Dervish - When weilding a gun in one hand and a sword in the other, spend 5 AP to attack with both in one turn - [5 TP]
+        STUNT! Shake it Off - When you have just been successfully attacked, but took no damage due to a successful Dodge or Armor check, you may spend 5 TP to make an immediate Attack of Opportunity  - [5 TP]
+
+    Gear
+        HELIX QUESTware - Light Armor 2 AR [10GP] 
+        Modified Dynn Taurus X11 'Judgement' revolver - Heavy Pistol 10DMG [10GP]
+        Nanosaber - monofilament blade 5DMG [5GP]
