@@ -20,22 +20,17 @@ ATTRIBUTES
 
 Attributes are divided into the following categories:
 
- - BODY
-
-    This attribute represents the physical condition your body is in, and will affect skills that test your Strength or Endurance
+BODY
+  This attribute represents the physical condition your body is in, and will affect skills that test your Strength or Endurance
  
- - REACTION
-
-    This attribute represents how quickly you are able to respond to things, and will affect skills that test your Agility, Dexterity, or Perceptions
+REACTION
+  This attribute represents how quickly you are able to respond to things, and will affect skills that test your Agility, Dexterity, or Perceptions
  
- - WITS
-
-    This attribute represents how well you are  able to reason and remember, and will affect skills that test your Intelligence and Knowledge
+WITS
+  This attribute represents how well you are  able to reason and remember, and will affect skills that test your Intelligence and Knowledge
  
- - PERSONA 
-
-    This attribute represents how well you present yourself, and will affect skills that test your Charisma and Demeanour 
- 
+PERSONA 
+  This attribute represents how well you present yourself, and will affect skills that test your Charisma and Demeanour 
  
 ==============================================================================================================================
 								SKILLS
