@@ -129,70 +129,88 @@ CHARACTER CONCEPT
 
 This aspect is intended to be a short 2-5 word description of what someone would describe your character as.
 
-    [Example: "Alien Mechanic" or "Corporate Private Investigator"]
+    "Alien Mechanic"
+    
+    "Corporate Private Investigator"]
 
 AMBITION ASPECT
 ***************
 
 This aspect is for describing what your characters life goal is, what keeps them motivated.
 
-    [Example: "A fistful of dollars" or "Crush the Competition!"
+    "A fistful of dollars"
+    
+    "Crush the Competition!"
        
 BACKGROUND ASPECT
 *****************
 
 This aspect describes what the character had been doing with their life up to the beginning of the adventure in as few words as possible.
 
-    [Example:  "Crew of UECF Harmony" or "Graduate of Lakeview Psionics Academy"
+    "Crew of UECF Harmony"
+    
+    "Graduate of Lakeview Psionics Academy"
 
 CONVICTION ASPECT
 *****************
 
 What is your life motto or creed, what best describes your way of thinking?
 
-    [Example: "For the right price..." or "I kneel to no one"]
+    "For the right price..."
+    
+    "I kneel to no one"
 
 DILEMMA ASPECT
 **************
 
 Just as you have a moral conviction, you must also have a moral failure. This aspect best describes a personality trait that you'd rather hide from others.
 
-    [Example: "Thrill of the Kill" or "Living a lie"] 
+    "Thrill of the Kill"
+    
+    "Living a lie"
 
 EXCEPTIONAL SKILL ASPECT
 ************************
 
 This aspect describes your best quality, the skill you could perform blind folded. You get two extra dice when tapping this aspect with your skill.
 
-    [Example: "Ace Pilot" or "Top marks in Academy"]
+    "Ace Pilot"
+    
+    "Top marks in Academy"
 
 FOE ASPECT
 **********
 
 You've met some people  in your life, and not all of them have liked you. This aspect describes a specific faction that is out to harm you.
 
-    [Example: "Wanted on 15 systems" or "Escaped my Master"]
+    "Wanted on 15 systems"
+    
+    "Escaped my Master"
            
 GEAR ASPECT
 ***********
 
 This is your signature piece, the sidearm or piece of kit that never leaves your side. You'd lose sleep if you ever lost it. This aspect grants an extra dice in conjunction with the gear's bonus when either making an attack with it, or when making a skill check.
 
-    [Example: "Dad's old revolver" or "The good wrench"]
+    "Dad's old revolver"
+    
+    "The good wrench"
    
 HELP ASPECT
 ***********
 
 Not everyone you've met has tried to kill you, some of them actually liked you. This aspect is for granting an extra dice when dealing with a faction that's friendly to you.
 
-    [Example: "Us pilots stick together" or "[Name] has my back"]
+    "Us pilots stick together"
+    
+    "[Name] has my back"
 
 INFERIOR SKILL ASPECT
 *********************
 
 There's things you're just not good at, and you know it. This aspect describes something you're knowingly bad at. While you'll still get your second dice roll for invoking this aspect, you'll take the lower of the two rolls.
 
-    [Example: "I don't numbers good"]
+    "I don't numbers good"
 
 EXAMPLE CHARACTER
 -----------------
