@@ -1,9 +1,9 @@
-============
- Kismet 2.0
-============
+===============================
+ Kismet 2.0 Character Creation
+===============================
 
-CHARACTER CREATION RULES
-------------------------
+OVERVIEW
+--------
 
 - Players are given 50 pips to assign to Attributes and Skills
 - Attributes are capped at 5
@@ -77,17 +77,19 @@ Injured
 Wounded
   You have sustained a serious wound and will not recover AP until healed
 
-Unconcious
-  You have lost consciousness and will need to be dragged to safty
+Unconscious
+  You have lost consciousness and will need to be dragged to safety
 
-The amount of damage required to move from one Health Status to the next is determined by the BODY Attribute
+The amount of damage required to move from one Health Status to the next is
+determined by the BODY Attribute
 
 ARMOR
 -----
 
 Armor is an optional component that is purchased with Gear Points.
 
-Armor offers extra protection by extending how much damage you can take before moving to the next Health Status
+Armor offers extra protection by extending how much damage you can take before
+moving to the next Health Status
 
 ACTION POINTS (AP)
 ------------------
@@ -108,124 +110,126 @@ EDGE
 GEAR
 ----
 
-Gear Points may be spent during character creation to purchase equipment that is signature to your character. This includes things like signature armour and weapons, but does not include such things as Ships or Companions, which fall under Story Elements and are granted for free by the Story Teller. 
+Gear Points may be spent during character creation to purchase equipment that
+is signature to your character. This includes things like signature armour and
+weapons, but does not include such things as Ships or Companions, which fall
+under Story Elements and are granted for free by the Story Teller. 
 
 General Gear Chart:
 
-+-----------------------+----------------------+--------------------------------------------------+
-| Type                  | Cost                 | Example                                          |
-+=======================+======================+==================================================+
-| Weapon                | 1GP per Damage       | 7DMG Heavy Pistol = 7 GP                         |
-+-----------------------+----------------------+--------------------------------------------------+
-| Armor                 | 5GP per Armor Rating | 5 AR Heavy Armored Suit = 25 GP                  |
-+-----------------------+----------------------+--------------------------------------------------+
-| Tool w/ Skill Bonus   | 2GP per Bonus Point  | Engineer Toolkit +2 to Repair Rolls = 4 GP       |
-+-----------------------+----------------------+--------------------------------------------------+
-| Device mimicing Trait | Trait cost x GP      | Jetpack mimicing Flight @ 10 AP per Turn = 10 GP |
-+-----------------------+----------------------+--------------------------------------------------+
++------------------------+----------------------+---------------------------------------------------+
+| Type                   | Cost                 | Example                                           |
++========================+======================+===================================================+
+| Weapon                 | 1GP per Damage       | 7DMG Heavy Pistol = 7 GP                          |
++------------------------+----------------------+---------------------------------------------------+
+| Armor                  | 5GP per Armor Rating | 5 AR Heavy Armored Suit = 25 GP                   |
++------------------------+----------------------+---------------------------------------------------+
+| Tool w/ Skill Bonus    | 2GP per Bonus Point  | Engineer Toolkit +2 to Repair Rolls = 4 GP        |
++------------------------+----------------------+---------------------------------------------------+
+| Device mimicking Trait | Trait cost x GP      | Jetpack mimicking Flight @ 10 AP per Turn = 10 GP |
++------------------------+----------------------+---------------------------------------------------+
 
 
 ADVANTAGE
 ---------
 
-It is possible to exploit details of scenes to obtain an advantage over an enemy or trap. These advantages manifest themselves in the form of bonus dice, where the best score is taken. 
+It is possible to exploit details of scenes to obtain an advantage over an
+enemy or trap. These advantages manifest themselves in the form of bonus dice,
+where the best score is taken. 
 
 ASPECTS
 -------
 
-Aspects are used to gain advantages in situations, especially when dealing with familiar challenges or on home turf.  
+Aspects are used to gain advantages in situations, especially when dealing with
+familiar challenges or on home turf.  
 
-When you believe an aspect you have is relevant to play, suggest to the Storyteller that you'd like to invoke it to gain an extra dice on your roll. 
+When you believe an aspect you have is relevant to play, suggest to the
+Storyteller that you'd like to invoke it to gain an extra dice on your roll. 
 
-The Background Aspects for Character Creation are listed below. Additional aspects can be gained at a later date through training or experience.
+The Background Aspects for Character Creation are listed below. Additional
+aspects can be gained at a later date through training or experience.
 
 CHARACTER CONCEPT
-*****************
+  This aspect is intended to be a short 2-5 word description of what someone
+  would describe your character as.
 
-This aspect is intended to be a short 2-5 word description of what someone would describe your character as.
-
-    "Alien Mechanic"
+      "Alien Mechanic"
     
-    "Corporate Private Investigator"
+      "Corporate Private Investigator"
 
 AMBITION ASPECT
-***************
+  This aspect is for describing what your characters life goal is, what keeps
+  them motivated.
 
-This aspect is for describing what your characters life goal is, what keeps them motivated.
-
-    "A fistful of dollars"
+      "A fistful of dollars"
     
-    "Crush the Competition!"
+      "Crush the Competition!"
        
 BACKGROUND ASPECT
-*****************
+  This aspect describes what the character had been doing with their life up to
+  the beginning of the adventure in as few words as possible.
 
-This aspect describes what the character had been doing with their life up to the beginning of the adventure in as few words as possible.
+      "Crew of UECF Harmony"
 
-    "Crew of UECF Harmony"
-    
-    "Graduate of Lakeview Psionics Academy"
+      "Graduate of Lakeview Psionics Academy"
 
 CONVICTION ASPECT
-*****************
+  What is your life motto or creed, what best describes your way of thinking?
 
-What is your life motto or creed, what best describes your way of thinking?
-
-    "For the right price..."
+      "For the right price..."
     
-    "I kneel to no one"
+      "I kneel to no one"
 
 DILEMMA ASPECT
-**************
+  Just as you have a moral conviction, you must also have a moral failure. This
+  aspect best describes a personality trait that you'd rather hide from others.
 
-Just as you have a moral conviction, you must also have a moral failure. This aspect best describes a personality trait that you'd rather hide from others.
+      "Thrill of the Kill"
 
-    "Thrill of the Kill"
-    
-    "Living a lie"
+      "Living a lie"
 
 EXCEPTIONAL SKILL ASPECT
-************************
+  This aspect describes your best quality, the skill you could perform blind
+  folded. You get two extra dice when tapping this aspect with your skill.
 
-This aspect describes your best quality, the skill you could perform blind folded. You get two extra dice when tapping this aspect with your skill.
-
-    "Ace Pilot"
+      "Ace Pilot"
     
-    "Top marks in Academy"
+      "Top marks in Academy"
 
 FOE ASPECT
-**********
+  You've met some people  in your life, and not all of them have liked you.
+  This aspect describes a specific faction that is out to harm you.
 
-You've met some people  in your life, and not all of them have liked you. This aspect describes a specific faction that is out to harm you.
+      "Wanted on 15 systems"
 
-    "Wanted on 15 systems"
-    
-    "Escaped my Master"
+      "Escaped my Master"
            
 GEAR ASPECT
-***********
+  This is your signature piece, the sidearm or piece of kit that never leaves
+  your side. You'd lose sleep if you ever lost it. This aspect grants an extra
+  dice in conjunction with the gear's bonus when either making an attack with
+  it, or when making a skill check.
 
-This is your signature piece, the sidearm or piece of kit that never leaves your side. You'd lose sleep if you ever lost it. This aspect grants an extra dice in conjunction with the gear's bonus when either making an attack with it, or when making a skill check.
-
-    "Dad's old revolver"
+      "Dad's old revolver"
     
-    "The good wrench"
+      "The good wrench"
    
 HELP ASPECT
-***********
+  Not everyone you've met has tried to kill you, some of them actually liked
+  you. This aspect is for granting an extra dice when dealing with a faction
+  that's friendly to you.
 
-Not everyone you've met has tried to kill you, some of them actually liked you. This aspect is for granting an extra dice when dealing with a faction that's friendly to you.
-
-    "Us pilots stick together"
+      "Us pilots stick together"
     
-    "[Name] has my back"
+      "[Name] has my back"
 
 INFERIOR SKILL ASPECT
-*********************
+  There's things you're just not good at, and you know it. This aspect
+  describes something you're knowingly bad at. While you'll still get your
+  second dice roll for invoking this aspect, you'll take the lower of the two
+  rolls.
 
-There's things you're just not good at, and you know it. This aspect describes something you're knowingly bad at. While you'll still get your second dice roll for invoking this aspect, you'll take the lower of the two rolls.
-
-    "I don't numbers good"
+      "I don't numbers good"
 
 EXAMPLE CHARACTER
 -----------------
