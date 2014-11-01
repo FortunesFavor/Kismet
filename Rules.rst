@@ -219,7 +219,8 @@ EXAMPLE CHARACTER
 
     Name: Georgia 'Tin Lizzy' Preston
     Age: 27
-    Description: A tall, rough looking woman carrying a nanoblade at her side and a massive gun on her hip, dressed in rags.
+    Description: A tall, rough looking woman carrying a nanoblade at her side
+                 and a massive gun on her hip, dressed in rags.
 
     Character Concept        - Space Pirate
 
@@ -255,10 +256,19 @@ EXAMPLE CHARACTER
       Intimidate    4
 
     Traits
-        Wired Reflexes - Spend 10 stamina to automatically dodge an attack made against you. [10 TP]
+        Wired Reflexes - Spend 10 stamina to automatically dodge an attack made
+                         against you. [10 TP]
+
         Cyber-eye - Grants Infrared Vision, and Smartlink [5 TP]
-        STUNT! Dervish - When weilding a gun in one hand and a sword in the other, spend 5 AP to attack with both in one turn - [5 TP]
-        STUNT! Shake it Off - When you have just been successfully attacked, but took no damage due to a successful Dodge or Armor check, you may spend 5 TP to make an immediate Attack of Opportunity  - [5 TP]
+
+        STUNT! Dervish - When weilding a gun in one hand and a sword in the
+                         other, spend 5 AP to attack with both in one turn - 
+                         [5 TP]
+
+        STUNT! Shake it Off - When you have just been successfully attacked,
+                              but took no damage due to a successful Dodge or
+                              Armor check, you may spend 5 TP to make an
+                              immediate Attack of Opportunity  - [5 TP]
 
     Gear
         HELIX QUESTware - Light Armor 2 AR [10GP] 
