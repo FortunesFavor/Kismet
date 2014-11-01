@@ -97,11 +97,17 @@ Gear Points may be spent during character creation to purchase equipment that is
 
 General Gear Chart:
 
-    Type			 |		Cost		|		Example
-    Weapon			 |	1GP per Damage		|	7DMG Heavy Pistol = 7 GP
-    Armor			 |	5GP per Armor Rating	|	5 AR Heavy Armored Suit = 25 GP
-    Tool w/ Skill Bonus 	 |      2GP per Bonus Point	|       Engineer Toolkit +2 to Repair Rolls = 4 GP
-    Device mimicing Trait    |      Trait cost x GP         |       Jetpack mimicing Flight @ 10 AP per Turn = 10 GP
++-----------------------+----------------------+--------------------------------------------------+
+| Type                  | Cost                 | Example                                          |
++=======================+======================+==================================================+
+| Weapon                | 1GP per Damage       | 7DMG Heavy Pistol = 7 GP                         |
++-----------------------+----------------------+--------------------------------------------------+
+| Armor                 | 5GP per Armor Rating | 5 AR Heavy Armored Suit = 25 GP                  |
++-----------------------+----------------------+--------------------------------------------------+
+| Tool w/ Skill Bonus   | 2GP per Bonus Point  | Engineer Toolkit +2 to Repair Rolls = 4 GP       |
++-----------------------+----------------------+--------------------------------------------------+
+| Device mimicing Trait | Trait cost x GP      | Jetpack mimicing Flight @ 10 AP per Turn = 10 GP |
++-----------------------+----------------------+--------------------------------------------------+
 
 
 ==============================================================================================================================
