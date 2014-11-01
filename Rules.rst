@@ -21,29 +21,37 @@ ATTRIBUTES
 Attributes are divided into the following categories:
 
 BODY
-  This attribute represents the physical condition your body is in, and will affect skills that test your Strength or Endurance
+  This attribute represents the physical condition your body is in, and will
+  affect skills that test your Strength or Endurance
  
 REACTION
-  This attribute represents how quickly you are able to respond to things, and will affect skills that test your Agility, Dexterity, or Perceptions
+  This attribute represents how quickly you are able to respond to things, and
+  will affect skills that test your Agility, Dexterity, or Perceptions
  
 WITS
-  This attribute represents how well you are  able to reason and remember, and will affect skills that test your Intelligence and Knowledge
+  This attribute represents how well you are  able to reason and remember, and
+  will affect skills that test your Intelligence and Knowledge
  
 PERSONA 
-  This attribute represents how well you present yourself, and will affect skills that test your Charisma and Demeanour 
+  This attribute represents how well you present yourself, and will affect
+  skills that test your Charisma and Demeanour 
  
 SKILLS
 ------
 
-- Skills are talents that draw upon your Attributes, for example Firearms would require Reaction, while Brawling would require Body
-- There is no set list of skills, these are specializations that you create for yourself inspired by your background history
+- Skills are talents that draw upon your Attributes, for example Firearms would
+  require Reaction, while Brawling would require Body
+- There is no set list of skills, these are specializations that you create for
+  yourself inspired by your background history
 
 TRAITS
 ------
 
-Traits are special abilities that your character has, which can be activated when in danger to give an Advantage. 
+Traits are special abilities that your character has, which can be activated
+when in danger to give an Advantage. 
 
-Some traits have an AP cost to activate or sustain, while others simply add features to your character
+Some traits have an AP cost to activate or sustain, while others simply add
+features to your character
 
 General Price Guide:
 
@@ -60,10 +68,17 @@ HEALTH
 
 Divided into four categories
 
-- Healthy    - You have no wounds
-- Injured    - You have sustained an injury and will not recover AP until rested
-- Wounded    - You have sustained a serious wound and will not recover AP until healed
-- Unconcious - You have lost consciousness and will need to be dragged to safty
+Healthy
+  You have no wounds
+
+Injured
+  You have sustained an injury and will not recover AP until rested
+
+Wounded
+  You have sustained a serious wound and will not recover AP until healed
+
+Unconcious
+  You have lost consciousness and will need to be dragged to safty
 
 The amount of damage required to move from one Health Status to the next is determined by the BODY Attribute
 
