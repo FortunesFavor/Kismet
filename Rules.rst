@@ -215,6 +215,8 @@ There's things you're just not good at, and you know it. This aspect describes s
 EXAMPLE CHARACTER
 -----------------
 
+::
+
     Name: Georgia 'Tin Lizzy' Preston
     Age: 27
     Description: A tall, rough looking woman carrying a nanoblade at her side and a massive gun on her hip, dressed in rags.
