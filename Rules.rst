@@ -32,16 +32,15 @@ WITS
 PERSONA 
   This attribute represents how well you present yourself, and will affect skills that test your Charisma and Demeanour 
  
-==============================================================================================================================
-								SKILLS
-==============================================================================================================================
+SKILLS
+------
+
  - Skills are talents that draw upon your Attributes, for example Firearms would require Reaction, while Brawling would require Body
  - There is no set list of skills, these are specializations that you create for yourself inspired by your background history
 
+TRAITS
+------
 
-==============================================================================================================================
-								TRAITS
-==============================================================================================================================
 Traits are special abilities that your character has, which can be activated when in danger to give an Advantage. 
 
 Some traits have an AP cost to activate or sustain, while others simply add features to your character
@@ -56,10 +55,8 @@ Natural Weapons - [Weapon Rating] x TP
 
 Talent costing X AP to activate or maintain - X TP   (Example: Winged Flight costing 10AP per turn to use = 10 TP)
 
-
-==============================================================================================================================
-							HEALTH
-==============================================================================================================================
+HEALTH
+------
 
 Divided into four categories
 
@@ -70,49 +67,41 @@ Divided into four categories
  
  The amount of damage required to move from one Health Status to the next is determined by the BODY Attribute
 
-
-==============================================================================================================================
-							ARMOR
-==============================================================================================================================
+ARMOR
+-----
 
 Armor is an optional component that is purchased with Gear Points.
 
 Armor offers extra protection by extending how much damage you can take before moving to the next Health Status
 
-==============================================================================================================================
-							ACTION POINTS (AP)
-==============================================================================================================================
+ACTION POINTS (AP)
+------------------
 
  - You are granted 20 AP per Level
  - You recover AP to full when healthy, and not in danger
  - AP may be spent to raise the success threshold of an Ability 
  - AP is also spent to pay for a dodge chance. 
  - Action Points is also spent to activate Stunts
- 
 
-==============================================================================================================================
-							EDGE
-==============================================================================================================================
+EDGE
+----
 
  - You are granted 1 EP per level 
  - EP may be spent to automatically succeed at an Ability check
  - Edge is recovered at a rate of one per session
- 
 
-
-==============================================================================================================================
-							GEAR
-==============================================================================================================================
+GEAR
+----
 
 Gear Points may be spent during character creation to purchase equipment that is signature to your character. This includes things like signature armour and weapons, but does not include such things as Ships or Companions, which fall under Story Elements and are granted for free by the Story Teller. 
 
 General Gear Chart:
 
-Type			 |		Cost		|		Example
-Weapon			 |	1GP per Damage		|	7DMG Heavy Pistol = 7 GP
-Armor			 |	5GP per Armor Rating	|	5 AR Heavy Armored Suit = 25 GP
-Tool w/ Skill Bonus 	 |      2GP per Bonus Point	|       Engineer Toolkit +2 to Repair Rolls = 4 GP
-Device mimicing Trait    |      Trait cost x GP         |       Jetpack mimicing Flight @ 10 AP per Turn = 10 GP
+    Type			 |		Cost		|		Example
+    Weapon			 |	1GP per Damage		|	7DMG Heavy Pistol = 7 GP
+    Armor			 |	5GP per Armor Rating	|	5 AR Heavy Armored Suit = 25 GP
+    Tool w/ Skill Bonus 	 |      2GP per Bonus Point	|       Engineer Toolkit +2 to Repair Rolls = 4 GP
+    Device mimicing Trait    |      Trait cost x GP         |       Jetpack mimicing Flight @ 10 AP per Turn = 10 GP
 
 
 ==============================================================================================================================
