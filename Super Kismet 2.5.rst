@@ -1,6 +1,6 @@
-===============================
+===================================
 Super KISMET 2.5 Character Creation
-===============================
+===================================
 
 OVERVIEW
 --------
@@ -20,38 +20,34 @@ Attributes are divided into the following categories:
 BODY
   This attribute represents the physical condition your body is in. 
 
-- Agility
-- Endurance
-- Strength
-- Melee Weapons
- 
- 
+  - Agility
+  - Endurance
+  - Strength
+  - Melee Weapons
+
 REACTION
   This attribute represents how quickly you are able to respond to changes in your environment
- 
-- Perception
-- Stealth
-- Ranged Weapons
-- Driving
 
-
+  - Perception
+  - Stealth
+  - Ranged Weapons
+  - Driving
 
 WITS
   This attribute represents how well you are  able to reason and remember 
   
-- Craft
-- Knowledge
-- Willpower
-- Streetwise
- 
- 
+  - Craft
+  - Knowledge
+  - Willpower
+  - Streetwise
+
 PERSONA 
   This attribute represents how well you present yourself
   
-- Deception
-- Empathy
-- Persuasion
-- Resources
+  - Deception
+  - Empathy
+  - Persuasion
+  - Resources
  
 SKILLS
 ------
@@ -131,21 +127,21 @@ Gear Points may be spent during character creation to purchase equipment that is
 
 General Gear Chart:
 
-+------------------------+----------------------+---------------------------------------------------+
-| Type                   | Cost                 | Example                                           |
-+========================+======================+===================================================+
-| Weapon                 | 1TP per Weapon Rating      | 7WR Heavy Pistol = 7 TP                          |
-+------------------------+----------------------+---------------------------------------------------+
-| Armor                  | 5TP per Armor Rating | 5 AR Riot Armor = 25 TP                   |
-+------------------------+----------------------+---------------------------------------------------+
-| Tool w/ Skill Bonus    | 2TP per Bonus Point  | Engineer Toolkit +2 to Repair Rolls = 4 TP        |
-+------------------------+----------------------+---------------------------------------------------+
-| Device mimicking Trait | Trait cost x TP      | Jetpack mimicking Flight @ 10 AP per Turn = 10 TP |
-+------------------------+----------------------+---------------------------------------------------+
-| Vehicle                  | 5 to 10 TP | Motorcycle 5 TP, Van 10 TP                   |
-+------------------------+----------------------+---------------------------------------------------+
-| Property                  | 10 to 20 TP | Private Warehouse 20TP                   |
-+------------------------+----------------------+---------------------------------------------------+
++------------------------+-----------------------+---------------------------------------------------+
+| Type                   | Cost                  | Example                                           |
++========================+=======================+===================================================+
+| Weapon                 | 1TP per Weapon Rating | 7WR Heavy Pistol = 7 TP                           |
++------------------------+-----------------------+---------------------------------------------------+
+| Armor                  | 5TP per Armor Rating  | 5 AR Riot Armor = 25 TP                           |
++------------------------+-----------------------+---------------------------------------------------+
+| Tool w/ Skill Bonus    | 2TP per Bonus Point   | Engineer Toolkit +2 to Repair Rolls = 4 TP        |
++------------------------+-----------------------+---------------------------------------------------+
+| Device mimicking Trait | Trait cost x TP       | Jetpack mimicking Flight @ 10 AP per Turn = 10 TP |
++------------------------+-----------------------+---------------------------------------------------+
+| Vehicle                | 5 to 10 TP            | Motorcycle 5 TP, Van 10 TP                        |
++------------------------+-----------------------+---------------------------------------------------+
+| Property               | 10 to 20 TP           | Private Warehouse 20TP                            |
++------------------------+-----------------------+---------------------------------------------------+
 
 
 ADVANTAGE
@@ -161,106 +157,84 @@ Aspects are used to gain advantages in situations, especially when dealing with 
 When you believe an aspect you have is relevant to play, suggest to the Storyteller that you'd like to invoke it to gain an extra dice on your roll. 
 
 ALTER EGO
+  This aspect is used to describe your characters 'super hero' persona. Try to think of what a newspaper would describe you as.
+  
+  Example:
 
-This aspect is used to describe your characters 'super hero' persona. Try to think of what a newspaper would describe you as.
-
-Example:
-
-"Rat-themed Martial Artist"
-
-"Heavily Armed Vigilante"
+  - "Rat-themed Martial Artist"
+  - "Heavily Armed Vigilante"
 
 SECRET IDENTITY
+  This aspect is to describe your mild-mannered every day out of costume persona.
 
-This aspect is to describe your mild-mannered every day out of costume persona.
+  Example:
 
-Example:
-
-"Teenage blogger"
-
-"Rich kid with problems"
+  - "Teenage blogger"
+  - "Rich kid with problems"
 
 ORIGIN STORY
+  This aspect is to describe what spurred you to fight crime, or to address the nature of your abilities
 
-This aspect is to describe what spurred you to fight crime, or to address the nature of your abilities
+  Example:
 
-Example:
-
-"Uncle shot and killed by clown"
-
-"Bitten by radioactive spidermonkey"
+  - "Uncle shot and killed by clown"
+  - "Bitten by radioactive spidermonkey"
 
 HOME TURF
+  This aspect describes the neighborhood or city you hail from, and what gangs you're used to dealing with
 
+  Example: 
 
-This aspect describes the neighborhood or city you hail from, and what gangs you're used to dealing with
-
-Example: 
-
-Riverhead born and bred
-
-Alderney Advantage 
+  - "Riverhead born and bred"
+  - "Alderney Advantage"
 
 MORAL CODE
+  This aspect describes a conviction or belief that you live by
 
+  Example
 
-This aspect describes a conviction or belief that you live by
-
-Example
-
-"I will not take a life"
-
-"I would die protecting the life of another"
+  - "I will not take a life"
+  - "I would die protecting the life of another"
 
 DILEMMA
+  This aspect describes the complication your character is currently facing in his life, preventing him from spending his full time crime fighting
 
-This aspect describes the complication your character is currently facing in his life, preventing him from spending his full time crime fighting
+  Example
 
-Example
-
-"Bills are piling up"
-
-"My family doesn't know"
+  - "Bills are piling up"
+  - "My family doesn't know"
 
 NEMESIS
+  This aspect describes someone you've managed to get on the wrong side of, and who will actively cause trouble in your life
 
-This aspect describes someone you've managed to get on the wrong side of, and who will actively cause trouble in your life
+  Example
 
-Example
-
-"The Tremonti crime family"
-
-"The Marksman"
+  - "The Tremonti crime family"
+  - "The Marksman"
 
 HELP
+  This aspect describes a mentor or close friend who will come to your aid in a time of need
 
-This aspect describes a mentor or close friend who will come to your aid in a time of need
+  Example
 
-Example
-
-"My Sensei, Master Kiboshi"
-
-"My aunt, Doctor Samantha Kilburn PhD"
+  - "My Sensei, Master Kiboshi"
+  - "My aunt, Doctor Samantha Kilburn PhD"
 
 APTITUDE 
+  This aspect describes a particular skill you poses that defines you
 
-This aspect describes a particular skill you poses that defines you
+  Example
 
-Example
-
-"Untouchable Agility"
-
-"One shot One Kill"
+  - "Untouchable Agility"
+  - "One shot One Kill"
 
 WEAKNESS 
+  This aspect describes either a skill you are very poor at, or an object or energy that could cause you complications
 
-This aspect describes either a skill you are very poor at, or an object or energy that could cause you complications
+  Example
 
-Example
-
-"Blind in one eye" 
-
-"Moonstone cancels my Flying ability!"
+  - "Blind in one eye" 
+  - "Moonstone cancels my Flying ability!"
 
 EXAMPLE CHARACTER
 -----------------
@@ -271,48 +245,39 @@ The following example represents The Batman at the begining of his career
 
     Name: The Batman
     Age: mid-20's
-    Description: Dressed in all black armor with a big cleft chin and steely blue eyes, his armor peaked with two ear-like protrusions and bat symbol emblazoned on his chest
+    Description: Dressed in all black armor with a big cleft chin and steely blue eyes,
+                 his armor peaked with two ear-like protrusions and bat symbol emblazoned
+                 on his chest
 
+    ALTER EGO
+	    Bat-themed Gadgeteer Martial Artist
 
-ALTER EGO
-
-	Bat-themed Gadgeteer Martial Artist
-
-SECRET IDENTITY
-	
-	Billionaire Philanthropist 
-
-ORIGIN STORY
-
-	Parents killed by petty thief
-
-HOME TURF
-
-	Gotham City's Protector
-	
-MORAL CODE
-
-	No guns. No killing.
-
-DILEMMA
-
-	Social and Business Obligations
-
-NEMESIS
-
-	Falcone Crime Family
-
-HELP
-
-	Ex-SAS Butler
-
-APTITUDE
-
-	Trained in over 20 forms of Martial Arts
-
-WEAKNESS 
-
-	Strict moral code
+    SECRET IDENTITY
+    	Billionaire Philanthropist 
+    
+    ORIGIN STORY
+    	Parents killed by petty thief
+    
+    HOME TURF
+    	Gotham City's Protector
+    	
+    MORAL CODE
+    	No guns. No killing.
+    
+    DILEMMA
+    	Social and Business Obligations
+    
+    NEMESIS
+    	Falcone Crime Family
+    
+    HELP
+    	Ex-SAS Butler
+    
+    APTITUDE
+    	Trained in over 20 forms of Martial Arts
+    
+    WEAKNESS 
+    	Strict moral code
 	
 
     Level           [1]
@@ -327,24 +292,25 @@ WEAKNESS
 
     Reflexes        5
       Dodge         10
-	  Thrown Weapons 10
+	    Thrown Weapons 10
            
     Wits            5
       Perception    10
-	  Knowledge 10
+	    Knowledge 10
 
     Persona         5
       Intimidate    10
-	  Willpower		5
+	    Willpower		5
 
     Traits
-        Heightened Reflexes - Spend 10 AP  to automatically dodge an attack made against you. [10 TP]
-
-        Disarming Strike - Successful melee and ranged attacks can be used to disarm enemies [5 TP]
-
+        Heightened Reflexes - Spend 10 AP  to automatically dodge an attack made
+                              against you. [10 TP]
+        Disarming Strike - Successful melee and ranged attacks can be used to disarm
+                           enemies [5 TP]
         Rapid Strikes - Able to make additional attacks each turn for 5 AP each [5 TP]
-
-        Retaliate  - When you have just been successfully attacked, but took no damage due to a successful Dodge or Armor check, you may spend 5 TP to make an immediate Attack of Opportunity  - [5 TP]
+        Retaliate  - When you have just been successfully attacked, but took no damage
+                     due to a successful Dodge or Armor check, you may spend 5 TP to
+                     make an immediate Attack of Opportunity  - [5 TP]
 
     Gear
         Custom Armor - 2 AR [10 TP] 
