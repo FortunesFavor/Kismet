@@ -280,27 +280,27 @@ The following example represents The Batman at the begining of his career
     	Strict moral code
 	
 
-    Level           [1]
+    Level          [1]
     Health         [Armored] [Healthy] [Injured] [Wounded] [Incapacitated]
     Armor          [5]
-    Action Points       [20]
-    Edge            [1]
+    Action Points  [20]
+    Edge           [1]
       
     Body            5
-      Martial Arts         10
-      Parkour       10
+      Martial Art	10
+      Parkour       	10
 
     Reflexes        5
-      Dodge         10
-	    Thrown Weapons 10
+      Dodge     	10
+      Thrown Weapons    10
            
     Wits            5
-      Perception    10
-	    Knowledge 10
+      Perception    	10
+      Knowledge 	10
 
     Persona         5
-      Intimidate    10
-	    Willpower		5
+      Intimidate    	10
+      Willpower		5
 
     Traits
         Heightened Reflexes - Spend 10 AP  to automatically dodge an attack made
