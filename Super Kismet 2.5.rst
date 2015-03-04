@@ -303,17 +303,25 @@ The following example represents The Batman at the begining of his career
       Willpower		5
 
     Traits
+        
         Heightened Reflexes - Spend 10 AP  to automatically dodge an attack made
                               against you. [10 TP]
+        
         Disarming Strike - Successful melee and ranged attacks can be used to disarm
                            enemies [5 TP]
+        
         Rapid Strikes - Able to make additional attacks each turn for 5 AP each [5 TP]
+        
         Retaliate  - When you have just been successfully attacked, but took no damage
                      due to a successful Dodge or Armor check, you may spend 5 TP to
                      make an immediate Attack of Opportunity  - [5 TP]
 
     Gear
+        
         Custom Armor - 2 AR [10 TP] 
+        
         Batarang  - Thrown Shurikun [WR 2] [2TP]
-		Grapple Hook - +2 to Parkour [3 TP]
+	
+	Grapple Hook - +2 to Parkour [3 TP]
+        
         Utility Belt - Various accessories [10 TP]
