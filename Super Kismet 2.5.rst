@@ -73,7 +73,7 @@ General Price Guide:
 
 - Traits granting new abilities that have a minimal impact on combat have a negotiable cost of between 2 to 5 Trait Points (Example: Thermal Vision [2 TP], Telepathy [3 TP], Water Breathing [5 TP])
 
-- Traits granting new abilities that do impact combat tend to have a Trait fee to buy and a Stamina fee to use (Example: Flight [10 AP] [10 TP], Accelerated Healing [5 AP] [5 TP], Super Strength [5 AP] [5 TP]
+- Traits granting new abilities that do impact combat tend to have a Trait fee to buy and a Stamina fee to use (Example: Flight [10 AP] [20 TP], Accelerated Healing [10 AP] [20 TP], Super Strength [5 AP] [10 TP]
 
 - Abilities that can directly be used as weapons such as energy projection or natural weapons such as claws cost Trait points equal to their Weapon Rating (Example: Bone Claws [7 TP] [7 WR]
 
