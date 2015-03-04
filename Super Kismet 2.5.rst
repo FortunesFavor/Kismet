@@ -77,6 +77,28 @@ General Price Guide:
 
 - Abilities that can directly be used as weapons such as energy projection or natural weapons such as claws cost Trait points equal to their Weapon Rating (Example: Bone Claws [7 TP] [7 WR]
 
+GEAR
+----
+
+Gear Points may be spent during character creation to purchase equipment that is signature to your character. This includes things like signature armour, weapons, gadgets, and vehicles
+
+General Gear Chart:
+
++------------------------+-----------------------+---------------------------------------------------+
+| Type                   | Cost                  | Example                                           |
++========================+=======================+===================================================+
+| Weapon                 | 1TP per Weapon Rating | 7WR Heavy Pistol = 7 TP                           |
++------------------------+-----------------------+---------------------------------------------------+
+| Armor                  | 5TP per Armor Rating  | 5 AR Riot Armor = 25 TP                           |
++------------------------+-----------------------+---------------------------------------------------+
+| Tool w/ Skill Bonus    | 2TP per Bonus Point   | Engineer Toolkit +2 to Repair Rolls = 4 TP        |
++------------------------+-----------------------+---------------------------------------------------+
+| Device mimicking Trait | Trait cost x TP       | Jetpack mimicking Flight @ 10 AP per Turn = 10 TP |
++------------------------+-----------------------+---------------------------------------------------+
+| Vehicle                | 5 to 10 TP            | Motorcycle 5 TP, Van 10 TP                        |
++------------------------+-----------------------+---------------------------------------------------+
+| Property               | 10 to 20 TP           | Private Warehouse 20TP                            |
++------------------------+-----------------------+---------------------------------------------------+
 
 HEALTH
 ------
@@ -120,28 +142,6 @@ EDGE
 - EP may be spent to automatically succeed at an Ability check
 - Edge is recovered at a rate of one per session
 
-GEAR
-----
-
-Gear Points may be spent during character creation to purchase equipment that is signature to your character. This includes things like signature armour, weapons, gadgets, and vehicles
-
-General Gear Chart:
-
-+------------------------+-----------------------+---------------------------------------------------+
-| Type                   | Cost                  | Example                                           |
-+========================+=======================+===================================================+
-| Weapon                 | 1TP per Weapon Rating | 7WR Heavy Pistol = 7 TP                           |
-+------------------------+-----------------------+---------------------------------------------------+
-| Armor                  | 5TP per Armor Rating  | 5 AR Riot Armor = 25 TP                           |
-+------------------------+-----------------------+---------------------------------------------------+
-| Tool w/ Skill Bonus    | 2TP per Bonus Point   | Engineer Toolkit +2 to Repair Rolls = 4 TP        |
-+------------------------+-----------------------+---------------------------------------------------+
-| Device mimicking Trait | Trait cost x TP       | Jetpack mimicking Flight @ 10 AP per Turn = 10 TP |
-+------------------------+-----------------------+---------------------------------------------------+
-| Vehicle                | 5 to 10 TP            | Motorcycle 5 TP, Van 10 TP                        |
-+------------------------+-----------------------+---------------------------------------------------+
-| Property               | 10 to 20 TP           | Private Warehouse 20TP                            |
-+------------------------+-----------------------+---------------------------------------------------+
 
 
 ADVANTAGE
